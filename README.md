@@ -1,5 +1,5 @@
 # CHRISMAPP
-R script to annotate satDNAs in chromosome-level assemblies.
+R script to annotate sequences (e.g. SatDNA) in chromosome-level assemblies.
 
 
 The pipeline needs an annotation step made in Geneious prime. The similarity we recommend is around 70%. You must to export a .gff file with only the annotations.
