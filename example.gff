@@ -1,0 +1,8 @@
+##gff-version 3
+##source-version geneious 11.1.5
+##sequence-region	ChrA1	1	170740645
+ChrA1	Geneious	Sat1-194	88212151	88212344	.	.	.	Name=
+##sequence-region	ChrA2	1	119541763
+ChrA3	Geneious	Sat2-140	41339782	41339922	.	.	.	Name=
+##sequence-region	ChrX	1	132544852
+ChrX	Geneious	Sat3-1634	107808347	107809985	.	.	.	Name=
