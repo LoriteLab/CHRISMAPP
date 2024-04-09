@@ -2,8 +2,10 @@
 R script to annotate sequences (e.g. SatDNA) in chromosome-level assemblies.
 
 
-The pipeline needs an annotation step made in Geneious. The similarity we recommend is around 70% for SatDNA families. You must to export a .gff file with only the annotations.
-Then you only need to run this script in R, providing also a .txt file containing chromosome names and the length of each one for plotting.
+The pipeline needs an annotation step made in Geneious. 
+The similarity we recommend is around 70% for SatDNA families. You must to export a .gff file with only the annotations.
+Each satellite DNA family must be annotated with its corresponding name in the Geneious annotation property "Type."
+Then you only need to run this script in R, providing also a .txt file containing chromosome names and the length of each one for plotting (Not necessary for CHRISMAPP_V2).
 
 
 # CHRISMAPP_V2
