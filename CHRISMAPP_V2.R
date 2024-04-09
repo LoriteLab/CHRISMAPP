@@ -1,4 +1,4 @@
-#####################  THANKS FOR USING ChrIsMapp script ##############################
+#####################  THANKS FOR USING CHRISMAPP script ##############################
 
 ############# please if you use it cite our paper Rico-Porras et. al 2024 #############
 
