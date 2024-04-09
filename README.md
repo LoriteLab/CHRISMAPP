@@ -6,7 +6,7 @@ The pipeline needs an annotation step made in Geneious. The similarity we recomm
 Then you only need to run this script in R, providing also a .txt file containing chromosome names and the length of each one for plotting.
 
 
-# CHRISMAPP.v2
+# CHRISMAPP_V2
 
 A revised version of this script has been introduced, incorporating the following enhancements:
 
