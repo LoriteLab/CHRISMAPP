@@ -10,8 +10,9 @@ Then you only need to run this script in R, providing also a .txt file containin
 
 A revised version of this script has been introduced, incorporating the following enhancements:
 
-  Elimination of the requirement for a .txt file containing chromosome names and sizes. Instead, this updated script retrieves chromosome length data directly from the Geneious .gff file.
-  Integration of a feature enabling the generation of a new PDF file that consolidates all individual annotation graphs.
+  -Elimination of the requirement for a .txt file containing chromosome names and sizes. Instead, this updated script retrieves chromosome length data directly from the Geneious .gff file.
+  
+ -Integration of a feature enabling the generation of a new PDF file that consolidates all individual annotation graphs.
 
 
 # CITE THIS:
