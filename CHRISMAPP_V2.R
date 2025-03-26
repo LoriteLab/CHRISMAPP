@@ -13,9 +13,10 @@ library(dplyr)
 # set the working directory where the archives are
 
 
-# read and import the gff file, change the name as the same you have stored the data
+# read and import the gff file
 
-file_gff <- "name.gff"
+file_gff <- list.files(pattern = "\\.gff$")
+
 
 
 # Extracting data from gff
